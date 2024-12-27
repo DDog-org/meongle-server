@@ -15,6 +15,12 @@
 ### 🔌 Ports & Adapters Architecture
 외부 라이브러리(JPA)로부터 도메인 객체와 비즈니스 로직 의존성을 역전 시켰습니다.
 각 가능에서 테스트 및 모니터링을 통해 기술스텍이 변경되는 일이 잦았습니다. 이때, 어뎁터만 변경해줌으로써 유연한 확장이 가능했습니다.
+
+<br />
+<br />
+
+![image](https://github.com/user-attachments/assets/cc1ff646-ccd0-4514-88da-1c047255b323)
+
 <br />
 <br />
 
@@ -78,13 +84,15 @@ api 모듈을 독립적ㅇ로 배포할 수 있도록 브랜치 전략을 활용
 <br />
 <br />
 
-## 🏗️ 서비스 아키텍처
-![image](https://github.com/user-attachments/assets/bd2b5c99-8bcc-44e8-915b-a85efdf93341)
+## 🏗️ 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/2b25a36b-b837-4795-ab0b-8c9ad150cd9d)
+
 <br />
 <br />
 
 ## 🚢 CI/CD
-![image](https://github.com/user-attachments/assets/e9916060-7677-4c43-8a42-1fc8ad517c69)
+![image](https://github.com/user-attachments/assets/3a0b13ec-0e92-48da-bc65-52d516f7ee32)
+
 <br />
 <br />
 
